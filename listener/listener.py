@@ -1,6 +1,5 @@
 
 import win32api
-from time import sleep
 
 
 class Listener(object):
